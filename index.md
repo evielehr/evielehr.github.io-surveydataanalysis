@@ -10,13 +10,13 @@ In this analysis, survey data from COMP 110 students was investigated to determi
 # Images
 
 ## Plot 1
-<img src="evielehr.github.io-surveydataanalysis/static/imgs/plot1.png" alt="Image of bar chart showing counts of each response about benefits of pre-lecture videos."  width="500"/>
+<img src="static/imgs/plot1.png" alt="Image of bar chart showing counts of each response about benefits of pre-lecture videos."  width="500"/>
 
 ## Plot 2
-<img src="evielehr.github.io-surveydataanalysis/static/imgs/plot2.png" alt="Image of bar chart showing responses to benefits of pre-lecture videos with percieved understanding of course concepts."  width="500"/>
+<img src="static/imgs/plot2.png" alt="Image of bar chart showing responses to benefits of pre-lecture videos with percieved understanding of course concepts."  width="500"/>
 
 ## Plot 3
-<img src="evielehr.github.io-surveydataanalysis/static/imgs/plot3.png" alt="Image of point plot showing mean responses to benefits of pre-lecture videos and programming experience."  width="500"/>
+<img src="static/imgs/plot3.png" alt="Image of point plot showing mean responses to benefits of pre-lecture videos and programming experience."  width="500"/>
 
 
 
