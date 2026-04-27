@@ -8,7 +8,6 @@ In this analysis, survey data from COMP 110 students was investigated to determi
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 # Images
-<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width = 500/>
 
 ## Plot 1
 <img src="/Users/evielehr/Downloads/COMP 110/comp110-26s-workspace/personal-site.github.io/static/imgs/plot1.png" alt="Image of bar chart showing counts of each response about benefits of pre-lecture videos."  width="500"/>
